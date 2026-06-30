@@ -104,22 +104,22 @@ Após receber os dados, o JavaScript organiza as informações e exibe os produt
 
 ## 1. Instalar as dependências
 
-npm install express
-npm install pg
-npm install dotenv
-etc...
+- npm install express
+- npm install pg
+- npm install dotenv
+- etc...
 
 ---
 
 ## 2. Configurar o arquivo `.env`
 
 Exemplo:
-DB_HOST=localhost
-DB_PORT=5432
-DB_NAME=trabalho-dw1-2bimestre
-DB_USER=postgres
-DB_PASSWORD=sua_senha
-PORT=3001
+- DB_HOST=localhost
+- DB_PORT=5432
+- DB_NAME=trabalho-dw1-2bimestre
+- DB_USER=postgres
+- DB_PASSWORD=sua_senha
+- PORT=3001
 
  
 ---
