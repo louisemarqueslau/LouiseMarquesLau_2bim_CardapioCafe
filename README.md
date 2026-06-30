@@ -150,5 +150,5 @@ Após iniciar, o servidor ficará disponível na porta configurada.
 
 # 💕 Autoria
 
-Projeto desenvolvido para a disciplina de Desenvolvimento Web 1, com foco na prática de criação de aplicações web integradas com banco de dados pela aluna Louise Marques Lau
+Projeto desenvolvido para a disciplina de Desenvolvimento Web 1, com foco na prática de criação de aplicações web integradas com banco de dados pela aluna Louise Marques Lau.
 
